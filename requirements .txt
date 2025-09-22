@@ -1,10 +1,10 @@
 # OpenAI 圖像生成器 UI - 依賴包
 
 # 核心依賴
-openai>=1.0.0
-requests>=2.25.0
-Pillow>=8.0.0
-
+openai==1.30.0
+streamlit==1.37.0
+requests==2.31.0
+Pillow==10.0.1
 # Tkinter 版本依賴
 # Tkinter 通常隨 Python 一起安裝，無需額外安裝
 
